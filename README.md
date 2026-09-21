@@ -14,7 +14,7 @@ I’m a Data Science graduate interested in backend engineering, AI/ML, and open
 
 ### 🚀 Current Work
 
-* 🔵 Contributing to **Canonical** open-source projects
+* 🔵 Contributing to **Canonical & Ubuntu** open-source projects
 * 🔵 Contributing to **gRPC**
 * 🔵 Working with **SoftTrack**
 * 🤖 Building **Notescape**, an AI-powered learning workspace
