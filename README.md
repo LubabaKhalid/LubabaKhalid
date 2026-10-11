@@ -28,25 +28,33 @@ I'm a Data Science graduate interested in backend engineering, AI/ML, and buildi
 
 I contribute to bug fixes, regression tests, performance improvements, dependency updates, protocol compatibility, CI/CD, and infrastructure.
 
-| Organization | Project | Open PRs | Merged / Integrated Work | Contributions |
-|---|---|---:|---:|---|
-| IBM | [Docling Pipelines](https://github.com/IBM/docling-pipelines/pulls?q=is%3Apr+involves%3ALubabaKhalid) | 1 | 4 reported | Logging, chunker performance, coverage, entity storage |
-| Docling Project | [Docling](https://github.com/docling-project/docling/pulls?q=is%3Apr+involves%3ALubabaKhalid) | 3 | — | DOCX numbering and document-processing fixes |
-| Xberg.io | [html-to-markdown](https://github.com/xberg-io/html-to-markdown/pulls?q=is%3Apr+involves%3ALubabaKhalid) | — | Multiple contributions integrated | HTML conversion, table-cell separation, image alt text, WASM |
-| Google | [gRPC Python](https://github.com/grpc/grpc/pull/43126) | — | 1 contribution incorporated | Regression test for `context.abort()` behavior |
-| Google | [GoogleTest](https://github.com/google/googletest/pull/5095) | 1 | 0 | Testing and code quality |
-| IBM | [MCP Context Forge](https://github.com/IBM/mcp-context-forge/pulls?q=is%3Apr+involves%3ALubabaKhalid) | 3 | 0 | A2A task states, file-part normalization, server catalog |
-| SoftTrack | [SoftTrack](https://github.com/soft-track/soft-track/pulls?q=is%3Apr+involves%3ALubabaKhalid) | 1 | 3 confirmed | Team archiving, deletion, and related improvements |
-| QwenLM | [Qwen Code](https://github.com/QwenLM/qwen-code/pull/13169) | 1 | 0 | Dependency security updates |
-| OpenMetadata | [OpenMetadata](https://github.com/open-metadata/OpenMetadata/pull/34986) | 1 | 0 | Large-graph performance |
-| DOMjudge | [DOMjudge](https://github.com/DOMjudge/domjudge/pull/3782) | 1 | 0 | Team resolver event logging |
-| Canonical | [Multipass](https://github.com/canonical/multipass/pulls?q=is%3Apr+involves%3ALubabaKhalid) | 2 | 0 | Update notifications and Hyper-V time synchronization |
-| Canonical | [cloud-init](https://github.com/canonical/cloud-init/pull/7084) | 1 | 0 | NoCloud seed URL platform variables |
-| Canonical | [Snapcraft](https://github.com/canonical/snapcraft/pull/6477) | 1 | 0 | `snapd-info` project key |
-| Ubuntu | [ubuntu-lint](https://github.com/canonical/ubuntu-lint/pulls?q=is%3Apr+involves%3ALubabaKhalid) | 3 | 0 | SRU validation, version conventions, source formats |
+| Organization | Project | Status | Pull Requests | Contributions |
+|---|---|---|---|---|
+| IBM | Docling Pipelines | 1 open; merged work reported | [#140](https://github.com/IBM/docling-pipelines/pull/140), [#141](https://github.com/IBM/docling-pipelines/pull/141), [#164](https://github.com/IBM/docling-pipelines/pull/164), [#183](https://github.com/IBM/docling-pipelines/pull/183), [#184](https://github.com/IBM/docling-pipelines/pull/184) | Lazy logging, chunker performance, coverage enforcement, entity storage |
+| Docling Project | Docling | 3 open | [#4727](https://github.com/docling-project/docling/pull/4727), [#4599](https://github.com/docling-project/docling/pull/4599), [#4707](https://github.com/docling-project/docling/pull/4707) | DOCX numbering and document-processing fixes |
+| Xberg.io | html-to-markdown | Multiple contributions integrated | [#581](https://github.com/xberg-io/html-to-markdown/pull/581), [#652](https://github.com/xberg-io/html-to-markdown/pull/652), [#703](https://github.com/xberg-io/html-to-markdown/pull/703), [#717](https://github.com/xberg-io/html-to-markdown/pull/717), [#720](https://github.com/xberg-io/html-to-markdown/pull/720), [#721](https://github.com/xberg-io/html-to-markdown/pull/721), [#748](https://github.com/xberg-io/html-to-markdown/pull/748) | HTML conversion fixes, table-cell separation, image alt text, WebAssembly |
+| Google | gRPC Python | Contribution incorporated | [#43126](https://github.com/grpc/grpc/pull/43126) | Proposed a regression assertion for `context.abort()` behavior |
+| Google | GoogleTest | 1 open | [#5095](https://github.com/google/googletest/pull/5095) | Testing and code quality |
+| IBM | MCP Context Forge | 3 open | [#7123](https://github.com/IBM/mcp-context-forge/pull/7123), [#7124](https://github.com/IBM/mcp-context-forge/pull/7124), [#7127](https://github.com/IBM/mcp-context-forge/pull/7127) | A2A task-state compatibility, file-part normalization, server catalog integration |
+| SoftTrack | SoftTrack | 1 open; 3 confirmed merged | [#109](https://github.com/soft-track/soft-track/pull/109), [#120](https://github.com/soft-track/soft-track/pull/120), [#165](https://github.com/soft-track/soft-track/pull/165), [#353](https://github.com/soft-track/soft-track/pull/353) | Team archiving and deletion, related backend improvements |
+| QwenLM | Qwen Code | 1 open | [#13169](https://github.com/QwenLM/qwen-code/pull/13169) | Dependency vulnerability remediation |
+| OpenMetadata | OpenMetadata | 1 open | [#34986](https://github.com/open-metadata/OpenMetadata/pull/34986) | Performance improvements for large lineage graphs |
+| DOMjudge | DOMjudge | 1 open | [#3782](https://github.com/DOMjudge/domjudge/pull/3782) | Team resolver event logging |
+| Canonical | Multipass | 2 open | [#5339](https://github.com/canonical/multipass/pull/5339), [#5345](https://github.com/canonical/multipass/pull/5345) | Hyper-V time synchronization, update notifications |
+| Canonical | cloud-init | 1 open | [#7084](https://github.com/canonical/cloud-init/pull/7084) | Platform variables in NoCloud seed URLs |
+| Canonical | Snapcraft | 1 open | [#6477](https://github.com/canonical/snapcraft/pull/6477) | Added the `snapd-info` project key |
+| Canonical / Ubuntu | ubuntu-lint | 3 open | [#38](https://github.com/canonical/ubuntu-lint/pull/38), [#39](https://github.com/canonical/ubuntu-lint/pull/39), [#40](https://github.com/canonical/ubuntu-lint/pull/40) | SRU upload validation, version conventions, source-format support |
 
-*Contribution counts are based on my current tracking and may change as pull requests are reviewed or merged. The gRPC entry is an incorporated test suggestion, not a PR I authored. Some html-to-markdown entries represent related or integrated work rather than separate merged PRs.*
+### 🛠️ Technologies Used
 
+- **Languages:** Python, Rust, C++, JavaScript, TypeScript, PHP
+- **Backend & Databases:** FastAPI, PostgreSQL, SQL, DuckDB
+- **Testing & Quality:** pytest, GoogleTest, Ruff, regression testing, coverage enforcement
+- **AI & Document Processing:** Docling, entity extraction, document parsing, RAG
+- **Protocols & Integration:** gRPC, AsyncIO, MCP, A2A, WebAssembly
+- **DevOps & Systems:** Docker, Linux, Git, GitHub Actions, Multipass, Hyper-V, cloud-init, Snapcraft
+- **Performance & Security:** Lazy imports, logging optimization, dependency updates, large-graph performance
+- 
 ### 🛠️ Featured Project
 
 **Notescape — AI-Powered Learning Workspace**
@@ -55,14 +63,13 @@ An AI learning platform designed to help learners understand study material, ide
 
 - 📚 Document ingestion with OCR and support for multiple file formats
 - 🧠 Retrieval-Augmented Generation (RAG), embeddings, and LLM-powered assistance
-- 📝 Flashcards, quizzes, and spaced repetition
+- 📝 Flashcards, quizzes and spaced repetition
 - ⚙️ **Stack:** React, TypeScript, FastAPI, PostgreSQL, pgvector, Redis, Docker
 
 ### 🧩 Problem Solving & Community
 
 - Competitive programming and algorithmic problem solving
 - Codeforces and LeetCode practice
-- ICPC Silver
 - Experience as a teaching assistant and competitive-programming mentor
 
 ### 📊 GitHub Activity
@@ -74,7 +81,6 @@ An AI learning platform designed to help learners understand study material, ide
 ### 📫 Connect With Me
 
 - **LinkedIn:** [Lubaba Khalid](https://www.linkedin.com/in/lubaba-khalid/)
-- **GitHub:** [@LubabaKhalid](https://github.com/LubabaKhalid)
 
 ---
 
