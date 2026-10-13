@@ -31,18 +31,18 @@ I contribute to bug fixes, regression tests, performance improvements, dependenc
 | Organization | Project | Status | Pull Requests | Contributions |
 |---|---|---|---|---|
 | IBM | Docling Pipelines | 1 open; merged work reported | [#140](https://github.com/IBM/docling-pipelines/pull/140), [#141](https://github.com/IBM/docling-pipelines/pull/141), [#164](https://github.com/IBM/docling-pipelines/pull/164), [#183](https://github.com/IBM/docling-pipelines/pull/183), [#184](https://github.com/IBM/docling-pipelines/pull/184) | Lazy logging, chunker performance, coverage enforcement, entity storage |
-| Docling Project | Docling | 3 open | [#4727](https://github.com/docling-project/docling/pull/4727), [#4599](https://github.com/docling-project/docling/pull/4599), [#4707](https://github.com/docling-project/docling/pull/4707) | DOCX numbering and document-processing fixes |
+| Docling Project | Docling | 2 open & 1 merged | [#4727](https://github.com/docling-project/docling/pull/4727), [#4599](https://github.com/docling-project/docling/pull/4599), [#4707](https://github.com/docling-project/docling/pull/4707) | DOCX numbering and document-processing fixes |
 | Xberg.io | html-to-markdown | Multiple contributions integrated | [#581](https://github.com/xberg-io/html-to-markdown/pull/581), [#652](https://github.com/xberg-io/html-to-markdown/pull/652), [#703](https://github.com/xberg-io/html-to-markdown/pull/703), [#717](https://github.com/xberg-io/html-to-markdown/pull/717), [#720](https://github.com/xberg-io/html-to-markdown/pull/720), [#721](https://github.com/xberg-io/html-to-markdown/pull/721), [#748](https://github.com/xberg-io/html-to-markdown/pull/748) | HTML conversion fixes, table-cell separation, image alt text, WebAssembly |
 | Google | gRPC Python | Contribution incorporated | [#43126](https://github.com/grpc/grpc/pull/43126) | Proposed a regression assertion for `context.abort()` behavior |
 | Google | GoogleTest | 1 open | [#5095](https://github.com/google/googletest/pull/5095) | Testing and code quality |
 | IBM | MCP Context Forge | 3 open | [#7123](https://github.com/IBM/mcp-context-forge/pull/7123), [#7124](https://github.com/IBM/mcp-context-forge/pull/7124), [#7127](https://github.com/IBM/mcp-context-forge/pull/7127) | A2A task-state compatibility, file-part normalization, server catalog integration |
-| SoftTrack | SoftTrack | 1 open; 3 confirmed merged | [#109](https://github.com/soft-track/soft-track/pull/109), [#120](https://github.com/soft-track/soft-track/pull/120), [#165](https://github.com/soft-track/soft-track/pull/165), [#353](https://github.com/soft-track/soft-track/pull/353) | Team archiving and deletion, related backend improvements |
+| SoftTrack | SoftTrack | 4 merged | [#109](https://github.com/soft-track/soft-track/pull/109), [#120](https://github.com/soft-track/soft-track/pull/120), [#165](https://github.com/soft-track/soft-track/pull/165), [#353](https://github.com/soft-track/soft-track/pull/353) | Team archiving and deletion, related backend improvements |
 | QwenLM | Qwen Code | 1 open | [#13169](https://github.com/QwenLM/qwen-code/pull/13169) | Dependency vulnerability remediation |
 | OpenMetadata | OpenMetadata | 1 open | [#34986](https://github.com/open-metadata/OpenMetadata/pull/34986) | Performance improvements for large lineage graphs |
 | DOMjudge | DOMjudge | 1 open | [#3782](https://github.com/DOMjudge/domjudge/pull/3782) | Team resolver event logging |
-| Canonical | Multipass | 2 open | [#5339](https://github.com/canonical/multipass/pull/5339), [#5345](https://github.com/canonical/multipass/pull/5345) | Hyper-V time synchronization, update notifications |
-| Canonical | cloud-init | 1 open | [#7084](https://github.com/canonical/cloud-init/pull/7084) | Platform variables in NoCloud seed URLs |
-| Canonical | Snapcraft | 1 open | [#6477](https://github.com/canonical/snapcraft/pull/6477) | Added the `snapd-info` project key |
+| Canonical | Multipass | 3 open | [#5339](https://github.com/canonical/multipass/pull/5339), [#5345](https://github.com/canonical/multipass/pull/5345) | Hyper-V time synchronization, update notifications |
+| Canonical | cloud-init | 3 open | [#7084](https://github.com/canonical/cloud-init/pull/7084) | Platform variables in NoCloud seed URLs |
+| Canonical | Snapcraft | 3 open | [#6477](https://github.com/canonical/snapcraft/pull/6477) | Added the `snapd-info` project key |
 | Canonical / Ubuntu | ubuntu-lint | 3 open | [#38](https://github.com/canonical/ubuntu-lint/pull/38), [#39](https://github.com/canonical/ubuntu-lint/pull/39), [#40](https://github.com/canonical/ubuntu-lint/pull/40) | SRU upload validation, version conventions, source-format support |
 
 ### 🛠️ Technologies Used
