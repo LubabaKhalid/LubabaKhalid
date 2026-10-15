@@ -28,7 +28,7 @@ I'm a Data Science graduate interested in backend engineering, AI/ML, and buildi
 
 I contribute to bug fixes, regression tests, performance improvements, dependency updates, protocol compatibility, CI/CD, and infrastructure.
 
-**13 merged** and **40 open** pull requests across 16 open-source projects, plus commits merged through maintainer PRs in html-to-markdown and gRPC. *(Status as of October 15, 2026.)*
+**13 merged** and **40 open** pull requests across 16 open-source projects, plus commits merged through maintainer PRs in html-to-markdown and gRPC, and 32 merged · 2 open PRs in my own project Notescape. *(Status as of October 15, 2026.)*
 
 🔗 [All my merged PRs](https://github.com/search?q=is%3Apr+author%3ALubabaKhalid+is%3Amerged&type=pullrequests) · [All my open PRs](https://github.com/search?q=is%3Apr+author%3ALubabaKhalid+is%3Aopen&type=pullrequests)
 
@@ -52,6 +52,7 @@ I contribute to bug fixes, regression tests, performance improvements, dependenc
 | React | React DevTools | 2 open | — | [#37847](https://github.com/react/react/pull/37847), [#37848](https://github.com/react/react/pull/37848) | Releasing deleted host instances, content-script polling |
 | Xberg.io | html-to-markdown | Commits merged via maintainer PRs | [#581](https://github.com/xberg-io/html-to-markdown/pull/581), [#717](https://github.com/xberg-io/html-to-markdown/pull/717) | — | My commits from [#652](https://github.com/xberg-io/html-to-markdown/pull/652), [#703](https://github.com/xberg-io/html-to-markdown/pull/703), [#720](https://github.com/xberg-io/html-to-markdown/pull/720) and [#721](https://github.com/xberg-io/html-to-markdown/pull/721): table-cell block separation, WASM visitor handles, `<br>` hard breaks, task-item tests |
 | gRPC | gRPC Python | Contribution incorporated | [#43126](https://github.com/grpc/grpc/pull/43126) | — | Regression assertion for `context.abort()`, merged to master as part of this PR |
+| NotescapeAi | Notescape (private repo) | 32 merged · 2 open | — | — | Login and sign-up pages, Firebase and GitHub authentication, landing, pricing, support, terms and privacy pages, Docker images, database schema, subscriptions, dashboard; flashcards |
 
 ### 🛠️ Technologies Used
 
